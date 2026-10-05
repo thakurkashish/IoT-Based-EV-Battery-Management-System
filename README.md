@@ -6,6 +6,10 @@ This project implements an IoT-based Battery Management System (BMS) for an Elec
 
 The system monitors individual cell conditions and provides visual and IoT-based status monitoring.
 
+## Wokwi Simulation
+
+[▶️ Run the simulation on Wokwi](https://wokwi.com/projects/477042195796913153)
+
 ## Features
 
 - Monitoring of multiple battery cells
